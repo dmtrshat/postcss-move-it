@@ -1,6 +1,6 @@
 {
   "name": "postcss-move-it",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plugin for postcss, adding keyframes by animation name.",
   "main": "index.js",
   "directories": {
