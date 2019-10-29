@@ -47,11 +47,11 @@ For Gulp:
 ```js
 const postcss = require('gulp-postcss');
 const gulp = require('gulp');
-const postcssAnimation = require('postcss-move-it');
+const postcssMoveIt = require('postcss-move-it');
 
 gulp.task('default', function () {
     var processors = [
-        postcssAnimation()
+        postcssMoveIt()
     ];
     return gulp.src('./src/*.css')
         .pipe(postcss(processors))
