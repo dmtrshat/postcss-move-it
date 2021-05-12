@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/dmtrshat/postcss-move-it#readme",
   "dependencies": {
-    "postcss": "^7.0.18"
+    "postcss": "^8.2.10"
   },
   "devDependencies": {
     "chai": "^4.2.0",
